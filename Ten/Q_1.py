@@ -1,3 +1,6 @@
+
+# Write a program which accepts one number and prints multiplication table of that number.
+
 def MultiplicationTable(first):
 
     List = []

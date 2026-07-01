@@ -1,3 +1,6 @@
+
+# Write a program which accepts one number and prints all even numbers till that number.
+
 def AllEvenNumber(first):
     
     EvenNum = []

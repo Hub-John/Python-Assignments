@@ -1,3 +1,6 @@
+
+# Write a program which accepts one number and prints factorial of that number.
+
 import math
 
 def FactorialNumber(first):

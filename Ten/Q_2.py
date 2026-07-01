@@ -1,3 +1,6 @@
+
+# Write a program which accepts one number and prints sum of first N natural numbers.
+
 def NaturalNumber(first):
 
     NaturalNumberResult = int((first * (first + 1)) / 2)

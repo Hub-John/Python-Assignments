@@ -1,3 +1,6 @@
+
+# Write a program which accepts one number and prints cube of that number.
+
 def CubeNumber(first):
 
     cubeNum = first * first * first

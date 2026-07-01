@@ -1,3 +1,6 @@
+
+# Write a program which contains one function ChkGreater() that accepts two numbers and prints the greater number.
+
 def CheckGreaterNumber(first, second):
 
     if(first >= second):

@@ -1,3 +1,6 @@
+
+# Write a program which accepts one number and checks whether it is divisible by 3 and 5
+
 def divisibleNumber(first):
 
     if(first % 3 == 0 and first % 5 == 0):
