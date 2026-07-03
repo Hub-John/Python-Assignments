@@ -9,7 +9,7 @@ def main():
     
     result = list(filter(CountEverNum, NumbersList))
 
-    print("The count of ever number is:", result)
+    print("The count of even number is:", result)
 
 if __name__ == "__main__":
     main()
